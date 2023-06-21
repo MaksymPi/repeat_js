@@ -12,7 +12,6 @@ console.log(`У ${currentYear} році ${name} ${lastName} буде мати в
 
 
 
-
 const PI = 3.141592653589793;
 
 console.log(PI.toFixed(2))
